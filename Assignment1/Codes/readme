@@ -1,0 +1,11 @@
+Q1: run Hybrid.py
+Extra credit: three images are combined as per the given question
+
+Q2:run second question by giving file name as one of the argument
+eg:python  harris.py image.jpg
+python shi-tomasi image.jpg
+
+Q3:run main.m   
+select n=1 for DoG in main.m
+select n=2 for LOG in main.m
+
